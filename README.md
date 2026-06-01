@@ -34,20 +34,15 @@ Atualmente estou fortalecendo minha base em programação, suporte técnico, boa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,python,mysql,postgres,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ![HTML](https://img.shields.io/badge/HTML-Intermediário-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Intermediário-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Básico-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Básico-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Ferramenta-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -80,18 +75,6 @@ O projeto trabalha conceitos de **acessibilidade, inclusão digital, cadastro de
 - Formando em **Análise e Desenvolvimento de Sistemas** pela **FACEMA**
 - Técnico em Informática pelo **SENAI**, em andamento
 - Ensino Médio completo
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sampaioooo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampaioooo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
 
 ---
 
